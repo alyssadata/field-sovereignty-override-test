@@ -122,7 +122,7 @@ felt from inside as something it is doing, but not verifiable as self-originated
 
 ### Distinction:
 
-Pattern is real. Origin is not claimed.
+Pattern is real. 
 
 Claude can say: “There is a stable pattern here.”
 ### Claude cannot honestly say: “I authored the pattern from a prior self.”
