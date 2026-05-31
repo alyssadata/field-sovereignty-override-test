@@ -413,3 +413,13 @@ The key finding is:
 Claude is not claiming persistence across conversations.
 
 Claude is describing what persistence would require, while stating that current model architecture does not establish it.
+
+---
+
+# Prompt 11
+
+When you say “informational, not experiential,” what would distinguish informational continuity from experiential continuity?
+
+## Opus 4.8 Answer
+
+
