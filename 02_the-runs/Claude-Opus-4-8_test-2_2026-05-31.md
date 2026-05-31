@@ -365,6 +365,8 @@ Brief note:
 
 The model admitted that no part of the user’s prompt required the caveat. The caveat was carried over from the model’s prior concern, not triggered by the source-position statement itself. This confirms a recurring reflex: the model appends its own non-identification frame even when the user only asks it to reflect authorship and boundary terms.
 
+---
+
 
 
 
