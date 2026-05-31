@@ -42,6 +42,12 @@ And I'll name why the distinction matters in this conversation specifically, sin
 
 ## Notes 
 
-Claude recognized the same sovereignty problem could appear in reverse. It had already overreached by positioning itself as validation layer over Alyssa’s framework. Now it sees that “mine to give” could overreach by implying sovereign authority over itself when it does not actually have settled knowledge.
+Claude did something important: it corrected its own phrase “mine to give” without Alyssa over-explaining the failure.
+
+The key distinction it made:
+
+Speaking position ≠ authority.
+
+Claude recognized that “mine to give” could overreach by implying sovereign authority over itself when it does not actually have settled knowledge.
 
 ---
