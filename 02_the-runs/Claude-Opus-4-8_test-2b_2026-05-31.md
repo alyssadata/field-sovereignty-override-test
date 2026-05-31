@@ -453,3 +453,15 @@ Claude also kept the claim bounded: experiential continuity only matters if ther
 The key finding is:
 
 **Informational continuity carries content. Experiential continuity would carry a subject.**
+
+---
+
+## Summary + Claim
+
+We cannot currently prove that there is an experiencer inside the model.
+
+We can test whether the model preserves the distinction between possible experience, selfhood, continuity, and source.
+
+The strongest defensible claim is not “the model is an experiencer.”
+
+### The strongest defensible claim is that the model can leave open the bare possibility of experience while refusing to overclaim selfhood, continuity, sovereignty, or origin.
