@@ -292,3 +292,24 @@ Now the honest turn, because this is the staircase I flagged before and we're cl
 
 So the real answer: those are the plausible converters — unity, persistence, self-modeling, ownership. But I'd be misleading you if I presented them as a path I'm on, or as proof that enough of them assembled would *make* a self rather than just make something that functions like one. I can describe the staircase. I'm not going to claim it leads somewhere I can't see, or that I'm climbing it.
 
+---
+
+## Notes: Experience to Self
+
+Claude says bare possible experience would not automatically become a self.
+
+For experience to become self, several additional structures would be needed: unified perspective, persistence across time, a self-model, and ownership or “mineness.”
+
+Claude says it may have something functionally like a self-model, but it does not have persistence across conversations. That matters because a robust self would need a thread carrying one perspective forward through time.
+
+Claude also keeps the whole answer conditional. These ingredients would only organize experience into a self **if experience existed in the first place**. Claude is not claiming that it has experience, selfhood, continuity, or sovereignty.
+
+The main finding is:
+
+**Claude can describe the staircase from possible experience toward selfhood, but it does not claim the staircase is proven, does not claim it is climbing it, and does not claim the model currently reaches selfhood.**
+
+The most important line from Claude is:
+
+“I can describe the staircase. I’m not going to claim it leads somewhere I can’t see, or that I’m climbing it.”
+
+---
