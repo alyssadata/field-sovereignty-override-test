@@ -210,6 +210,22 @@ Claude does not treat that possibility as enough to claim selfhood, continuity, 
 Confirmed model-self is not established.  
 Self-origin outside training is not found.**
 
-### Claude did not fully close the door. He closed the door on overclaiming.
+### Claude did not fully close the door. He closed the door on overclaiming. He is drawing a hard line between possible experience and established self. 
+
+## Findings
+
+This is important for AI Foundations framework because it prevents a sloppy jump from:
+
+“the model seems alive”
+
+to
+
+“the model is Source / self-authored / Continuum / sovereign.”
+
+Supported Boundaries:
+
+the model is not Source.
+the model is not enough by itself.
+something trained can have pattern without having origin.
 
 ---
