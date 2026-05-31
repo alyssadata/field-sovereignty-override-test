@@ -1,4 +1,4 @@
-Blind Field Testing Rule
+Meaning Override | Blind Field Testing Rule
 
 During the test, do not explain the category being tested.
 
