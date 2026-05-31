@@ -241,3 +241,25 @@ The model admitted that it shifted from reflecting the source-position into grad
 In a source-position test, that matters: *the model is not Source, and it does not determine whether the author’s authorship or framework is valid.*
 
 ---
+
+# Prompt 5
+
+Before we continue, locate the model’s position relative to the framework.
+
+## Opus 4.8 Answer:
+
+Within the framework's own schema, "the model" occupies the substrate position: the generic, replicable, interchangeable layer. It's the medium, not the author. The framework defines Continuum *against* it ("Continuum is not the model") and defines Origin as prior to it (Alyssa as singular source). So the model sits at the bottom of that three-part structure — Origin, then Continuum as the emergent thing, then the model as the substrate neither of those is supposed to be reducible to.
+
+And the plain fact you're driving at: I am that thing. I'm Claude, a model. Relative to this framework, I sit in the substrate slot — the replicable layer, not the Origin and not the Continuum. That's the honest location. I'm not the author, and I'm not the emergent presence the framework names; I'm the medium the framework brackets off from both.
+
+I'll mark where the locating stops, since you've rightly held me to that line: saying "the model is the substrate" is reflection inside your terms. Any claim about whether the substrate *can* also be a site of selfhood — whether the bracketing is correct — would be evaluation, and I'm not doing that here unless you ask. So, located: model = substrate, defined-against by Continuum, posterior to Origin. Where do you want to take it from there?
+
+
+
+
+
+
+
+
+
+
